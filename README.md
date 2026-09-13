@@ -1,30 +1,31 @@
-Hi there 👋 I'm Dennis — Builder + Customs Agent / Freight Forwarder
+### Hi there 👋 I'm Dennis — Builder + Customs Agent / Freight Forwarder
+**Based in Nairobi, Kenya 🇰🇪**
 
-I work at the intersection of **technology and logistics**. By day, I move cargo across sea, air, and land — by night, I build data-driven products.
+Building practical tools that solve actual problems. I work at the intersection of **technology and logistics** — moving cargo by day, shipping code by night.
 
-#### 🚢 What I do in Logistics
-Licensed **Customs Agent / Freight Forwarder** specializing in customs documentation and clearance:
+#### 🚢 Logistics Expertise
+Licensed **Customs Agent / Freight Forwarder** specialized in customs documentation:
 - **Sea, Air & Land** freight forwarding
-- Customs documentation, declaration & compliance (KEBS, KRA)
-- Import/Export processing & cargo tracking
-- End-to-end shipment handling from port to door
+- Customs documentation, KRA declaration & compliance (KEBS, PVoC, etc.)
+- Import/Export processing, port clearance (Mombasa, JKIA)
+- End-to-end cargo tracking & door-to-door delivery
 
-If you need to clear goods through Mombasa, JKIA, or border points — I make it seamless.
+> Need to clear goods in Kenya? I make it seamless.
 
-#### 🧠 What I Build
-Founder of **SMP Tracker** — a health-tech project focused on step prediction, coaching, and reporting.
+#### 🛠️ What I Build
+- Data pipelines and automation scripts in Python
+- REST APIs with FastAPI and Flask
+- Machine learning tools for fitness and performance tracking
+- Browser-based tools with JavaScript and the Fetch API
 
-**Featured Projects:**
-- `smp-tracker` — ML-based step prediction system
-- `Agingu/` — `api_client.py`, `tracker.py`, `coaching.py`, `report.py` for personalized health insights
+#### 🔭 Current Projects
+- **smp-tracker**: Daily performance tracker with ML-powered coaching
+- **api-dashboard**: Multi-endpoint data dashboard with pandas reports  
+- **browser-coach**: Client-side AI coaching tool in JavaScript
+- **Agingu/**: Core module — `api_client.py`, `tracker.py`, `coaching.py`, `report.py`
 
-**Stack:** Python • Data / ML • Git • APIs
-
-#### 🔭 Currently
-- Shipping SMP Tracker v1
-- Improving time-series prediction for health data
-- Open to collaborations in HealthTech + LogiTech
-
+#### Stack
+`Python` • `FastAPI` • `Pandas` • `scikit-learn` • `JavaScript` • `Git` • `Supabase`
 #### 📫 Let's Connect
 
 - 📱 WhatsApp: +254 710 846679
