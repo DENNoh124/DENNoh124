@@ -1,38 +1,34 @@
-### Hi there 👋 I'm Dennis — Builder + Customs Agent / Freight Forwarder
-**Based in Nairobi, Kenya 🇰🇪**
+# Hi there 👋 I'm Dennis — Builder + Customs Agent / Freight Forwarder
 
-Building practical tools that solve actual problems. I work at the intersection of **technology and logistics** — moving cargo by day, shipping code by night.
+Based in Nairobi, Kenya 🇰🇪  
+Licensed Customs Agent by day, shipping code by night.
 
-#### 🚢 Logistics Expertise
-Licensed **Customs Agent / Freight Forwarder** specialized in customs documentation:
-- **Sea, Air & Land** freight forwarding
-- Customs documentation, KRA declaration & compliance (KEBS, PVoC, etc.)
-- Import/Export processing, port clearance (Mombasa, JKIA)
-- End-to-end cargo tracking & door-to-door delivery
+### 🚢 Logistics
+Sea, Air & Land freight | KRA declarations | KEBS / PVoC compliance | Port clearance (Mombasa, JKIA) | Door-to-door delivery
 
-> Need to clear goods in Kenya? I make it seamless.
+Need to clear goods in Kenya? WhatsApp me: **+254 710 846679**
 
-#### 🛠️ What I Build
-- Data pipelines and automation scripts in Python
-- REST APIs with FastAPI and Flask
-- Machine learning tools for fitness and performance tracking
-- Browser-based tools with JavaScript and the Fetch API
+### 🛠️ Featured Projects
 
-#### 🔭 Current Projects
-- **smp-tracker**: Daily performance tracker with ML-powered coaching
-- **api-dashboard**: Multi-endpoint data dashboard with pandas reports  
-- **browser-coach**: Client-side AI coaching tool in JavaScript
-- **Agingu/**: Core module — `api_client.py`, `tracker.py`, `coaching.py`, `report.py`
+**[smp-tracker](https://github.com/DENNoh124/smp-tracker)** — 28-day performance tracker with ML-powered coaching  
+`Python, scikit-learn, pandas` — `DecisionTreeClassifier` for personalized protocols
 
-#### Stack
-`Python` • `FastAPI` • `Pandas` • `scikit-learn` • `JavaScript` • `Git` • `Supabase`
-#### 📫 Let's Connect
+**[api-dashboard](https://github.com/DENNoh124/api-dashboard)** — Multi-endpoint REST API + analytics dashboard  
+`FastAPI, pandas` — Auto CSV reports from live endpoints
 
-- 📱 WhatsApp: +254 710 846679
-- 📧 Email: your.dennisoludo@gmail.com
-- 🔗 LinkedIn: linkedin.com/in/your-profile
-- 🐙 GitHub: @DENNoh124
+**[browser-coach](https://github.com/DENNoh124/browser-coach)** — Client-side AI coaching, zero backend  
+`JavaScript, Fetch API` — Works 100% in browser
 
-- Open for: Customs brokerage, freight forwarding, and tech collaborations
+**[data-analysis-report](https://github.com/DENNoh124/data-analysis-report)** — 28-day SMP log analysis  
+`Python, pandas, NumPy` — Weekly breakdowns + protocol comparison
 
-> *From customs forms to code commits — I like systems that move.*
+### Stack
+Python • FastAPI • Flask • Pandas • NumPy • scikit-learn • JavaScript • Git • Supabase
+
+### 📫 Connect
+📱 WhatsApp: +254 710 846679  
+📧 your.dennisoludo@gmail.com  
+🐙 @DENNoh124
+
+> From customs forms to code commits — I like systems that move.
+
